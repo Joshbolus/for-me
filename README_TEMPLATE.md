@@ -12,10 +12,10 @@
 
 | Name | GitHub | Role | Leader |
 |---|---|---|---|
-| 〈Aleksandr Nurtdinov 〉 | @〈Fialka228〉 | 〈…〉 | ✅ |
-| 〈Kaleb Robles 〉 | @〈Kaleb16〉 | 〈…〉 | |
-| 〈Joshua Bolus〉 | @〈Joshbolus〉 | 〈…〉 | |
-| Andrew Bernabe  〉 | @〈ajbernabe4〉 | 〈…〉 | |
+| 〈 Aleksandr Nurtdinov 〉 | @〈Fialka228〉 | 〈…〉 | ✅ |
+| 〈 Kaleb Robles 〉 | @〈Kaleb16〉 | 〈…〉 | |
+| 〈 Joshua Bolus〉 | @〈Joshbolus〉 | 〈…〉 | |
+| 〈 Andrew Bernabe  〉 | @〈ajbernabe4〉 | 〈…〉 | |
 
 **Contact person:** 〈Name〉 — 〈email〉
 
