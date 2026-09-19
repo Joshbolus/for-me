@@ -1,4 +1,4 @@
-# CPSC 490 — Group 〈N〉 〈Group Name〉
+# CPSC 490 — Group 〈6〉 〈Forecast Market Analytics〉
 
 > **Copy this file to `README.md` in YOUR repository and fill it in.**
 > (In this example repository the root `README.md` is the setup guide, so the
@@ -12,10 +12,10 @@
 
 | Name | GitHub | Role | Leader |
 |---|---|---|---|
-| 〈Last, First〉 | @〈username〉 | 〈e.g. backend, docs lead〉 | ✅ |
-| 〈…〉 | @〈…〉 | 〈…〉 | |
-| 〈…〉 | @〈…〉 | 〈…〉 | |
-| 〈…〉 | @〈…〉 | 〈…〉 | |
+| 〈Aleksandr Nurtdinov 〉 | @〈Fialka228〉 | 〈…〉 | ✅ |
+| 〈Kaleb Robles 〉 | @〈Kaleb16〉 | 〈…〉 | |
+| 〈Joshua Bolus〉 | @〈Joshbolus〉 | 〈…〉 | |
+| Andrew Bernabe  〉 | @〈ajbernabe4〉 | 〈…〉 | |
 
 **Contact person:** 〈Name〉 — 〈email〉
 
